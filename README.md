@@ -6,3 +6,8 @@ ME 338 Project
 
 ### Resources
 [Steering Video](https://www.youtube.com/watch?v=vlSZeEDv-VY)
+
+### Grab CAD Resources
+[DC Motor](https://grabcad.com/library/dc_electro-motor_-size_540_mabuchi-1)
+[Battery](https://grabcad.com/library/pack-batterie-nimh-1)
+[Servo Motor](https://grabcad.com/library/futaba-s3003-1)
