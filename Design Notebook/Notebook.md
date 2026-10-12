@@ -4,4 +4,4 @@ Members: Catelin Mo, Colin D'Souza, Khanh Phan, Max Song, Pablo Pena, Samir Pate
 
 ### An RC Car Project
 
-![Initial Chassis CAD(./images/chassisassemblyRevB.png)
+![Initial Chassis CAD](./images/chassisassemblyRevB.png)
