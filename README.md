@@ -4,6 +4,14 @@ ME 338 Project
 ### Bill Of Materials
 [BOM](https://docs.google.com/spreadsheets/d/1Z6zGjWq9Jzk4UMNlMn4tsC_-XXKfH0QGCaM3dz59_fk/edit?usp=sharing)
 
+###Provided Components List
+Remote Control (Spektrum RC DX3 Smart 3-Channel DSMR Transmitter)\
+Receiver (SR315 Receiver)\ 
+Steering Servo Motor (Futaba S3003 Servo)\ 
+Battery (Gens Ace 6-Cell 7.2V NiMh Battery w/Tamiya Connector (3000mAh)) \ 
+DC Motor (Axial AXI24003 Brushed Electric Motor (20T)) \
+Controller (with on/off switch)
+
 ### Resources
 [Steering Video](https://www.youtube.com/watch?v=vlSZeEDv-VY)
 
