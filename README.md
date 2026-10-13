@@ -14,7 +14,9 @@ ME 338 Project
 - Controller (Hobbywing Quicrun 1060 1/10 Brushed ESC)
 
 ### Resources
-[Steering Video](https://www.youtube.com/watch?v=vlSZeEDv-VY)
+[Steering Video](https://www.youtube.com/watch?v=vlSZeEDv-VY) <br>
+[Cool Design](https://www.youtube.com/watch?v=KSIvDbwBDEk&t=1220s) <br>
+[Another Cool Design](https://youtu.be/pdKnIPH3JQs?si=N4vtYY0bQNxJWPUr)
 
 ### Grab CAD Resources
 [DC Motor](https://grabcad.com/library/dc_electro-motor_-size_540_mabuchi-1) <br>
