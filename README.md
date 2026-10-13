@@ -6,11 +6,11 @@ ME 338 Project
 
 ### Provided Components List
 
-Remote Control (Spektrum RC DX3 Smart 3-Channel DSMR Transmitter) \
-Receiver (SR315 Receiver) \ 
-Steering Servo Motor (Futaba S3003 Servo) \ 
-Battery (Gens Ace 6-Cell 7.2V NiMh Battery w/Tamiya Connector (3000mAh)) \ 
-DC Motor (Axial AXI24003 Brushed Electric Motor (20T)) \
+Remote Control (Spektrum RC DX3 Smart 3-Channel DSMR Transmitter) <br>
+Receiver (SR315 Receiver) <br>
+Steering Servo Motor (Futaba S3003 Servo) <br>
+Battery (Gens Ace 6-Cell 7.2V NiMh Battery w/Tamiya Connector (3000mAh)) <br>
+DC Motor (Axial AXI24003 Brushed Electric Motor (20T)) <br>
 Controller (Hobbywing Quicrun 1060 1/10 Brushed ESC)
 
 ### Resources
