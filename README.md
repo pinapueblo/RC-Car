@@ -17,7 +17,7 @@ ME 338 Project
 [Steering Video](https://www.youtube.com/watch?v=vlSZeEDv-VY)
 
 ### Grab CAD Resources
-[DC Motor](https://grabcad.com/library/dc_electro-motor_-size_540_mabuchi-1) \
-[Battery](https://grabcad.com/library/pack-batterie-nimh-1) \
-[Servo Motor](https://grabcad.com/library/futaba-s3003-1) \ 
+[DC Motor](https://grabcad.com/library/dc_electro-motor_-size_540_mabuchi-1) <br>
+[Battery](https://grabcad.com/library/pack-batterie-nimh-1) <br>
+[Servo Motor](https://grabcad.com/library/futaba-s3003-1) <br>
 [Controller](https://grabcad.com/library/hobbywing-quicrun-1060-brushed-esc-1)
