@@ -5,5 +5,5 @@ Members: Catelin Mo, Colin D'Souza, Khanh Phan, Max Song, Pablo Pena, Samir Pate
 ### An RC Car Project
 
 ### Initial Chassis CAD & Assembly:
-![Initial Chassis CAD](./images/chassisRevB.png)
-![Initial Chassis Assembly CAD](./images/chassisassemblyRevB.png)
+<img src"./images/chassisRevB.png" alt="Initial Chassis CAD" width="450"> <br>
+<img src"./images/chassisassemblyRevB.png" alt="Initial Chassis Assembly CAD" width="450">
